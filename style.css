@@ -1,0 +1,46 @@
+.bg-container{
+    background-color: #3a6781;
+    padding:30px;
+    height:100vh;
+}
+
+.heading{
+ 
+    font-family: "Robot";
+    font-weight: 500;
+    font-size: 36px;
+    color: white ;
+    text-align: center;
+    margin-bottom:  20px;
+
+
+}
+.list-container{
+    background-color: white;
+    border-radius: 6px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 45;
+    padding-right: 45;
+    text-align: left;
+    font-size: 20px;
+    
+
+}
+
+.delivery-text{
+    font-family: "Robot";
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.btn{
+    background-color:lightcoral;
+    cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+     margin:  30px 2px;
+     color: white;
+}
